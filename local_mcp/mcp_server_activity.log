@@ -1,0 +1,10 @@
+2025-06-07 12:12:01,232 - INFO - [server.py:231] - Creating MCP Server instance for SQLite DB...
+2025-06-07 12:12:01,232 - DEBUG - [server.py:150] - Initializing server 'sqlite-db-mcp-server'
+2025-06-07 12:12:01,232 - DEBUG - [server.py:391] - Registering handler for ListToolsRequest
+2025-06-07 12:12:01,232 - DEBUG - [server.py:413] - Registering handler for CallToolRequest
+2025-06-07 12:12:01,232 - INFO - [server.py:360] - Launching SQLite DB MCP Server via stdio...
+2025-06-07 12:12:01,232 - DEBUG - [proactor_events.py:634] - Using proactor: IocpProactor
+2025-06-07 12:12:01,241 - INFO - [server.py:336] - MCP Stdio Server: Starting handshake with client...
+2025-06-07 12:59:29,021 - INFO - [server.py:368] - 
+MCP Server (stdio) stopped by user.
+2025-06-07 12:59:29,030 - INFO - [server.py:378] - MCP Server (stdio) process exiting.
